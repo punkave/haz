@@ -1,0 +1,35 @@
+{
+  "name": "haz",
+  "version": "0.1.0",
+  "description": "Determines if a program exists in the PATH environment variable. Cross platform, including support for checking likely executable file extensions on Windows. Available in synchronous and asynchronous versions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/punkave/haz"
+  },
+  "keywords": [
+    "path",
+    "path",
+    "environment",
+    "search",
+    "path",
+    "windows",
+    "mac",
+    "linux",
+    "sync",
+    "async",
+    "fs"
+  ],
+  "author": "P'unk Avenue LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/punkave/haz/issues"
+  },
+  "homepage": "https://github.com/punkave/haz",
+  "dependencies": {
+    "async": "~0.2.9"
+  }
+}
